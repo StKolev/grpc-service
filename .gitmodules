@@ -1,0 +1,6 @@
+[submodule "grpc-service/protos/grpc-protos"]
+	path = grpc-service/protos/grpc-protos
+	url = https://github.com/StKolev/grpc-protos.git
+[submodule "grpc-service/grpc-protos"]
+	path = grpc-service/grpc-protos
+	url = https://github.com/StKolev/grpc-protos.git
